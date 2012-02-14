@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="iTunesCOMSample">
+</Property><Property Name="Solution File" Value="C:\Users\Scott\Desktop\iTunesCOMSample2\iTunesCOMSample.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Scott\Desktop\iTunesCOMSample2\iTunesCOMSample.suo">
+</Property><Property Name="Date" Value="Saturday, July 03, 2010">
+</Property><Property Name="Time" Value="22:40 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="iTunesCOMSample.sln" Description="File successfully backed up as C:\Users\Scott\Desktop\iTunesCOMSample2\Backup\iTunesCOMSample.sln">
+</Event><Event ErrorLevel="0" Project="" Source="iTunesCOMSample.suo" Description="File successfully backed up as C:\Users\Scott\Desktop\iTunesCOMSample2\Backup\iTunesCOMSample.suo">
+</Event><Event ErrorLevel="0" Project="iTunesCOMSample" Source="iTunesCOMSample\iTunesCOMSample.csproj" Description="Project file successfully backed up as C:\Users\Scott\Desktop\iTunesCOMSample2\Backup\iTunesCOMSample\iTunesCOMSample.csproj">
+</Event><Event ErrorLevel="0" Project="iTunesCOMSample" Source="iTunesCOMSample\iTunesCOMSample.csproj.user" Description="Project user file successfully backed up as C:\Users\Scott\Desktop\iTunesCOMSample2\Backup\iTunesCOMSample\iTunesCOMSample.csproj.user">
+</Event><Event ErrorLevel="0" Project="iTunesCOMSample" Source="iTunesCOMSample\Form1.cs" Description="File successfully backed up as C:\Users\Scott\Desktop\iTunesCOMSample2\Backup\iTunesCOMSample\Form1.cs">
+</Event><Event ErrorLevel="0" Project="iTunesCOMSample" Source="iTunesCOMSample\Form1.Designer.cs" Description="File successfully backed up as C:\Users\Scott\Desktop\iTunesCOMSample2\Backup\iTunesCOMSample\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="iTunesCOMSample" Source="iTunesCOMSample\Program.cs" Description="File successfully backed up as C:\Users\Scott\Desktop\iTunesCOMSample2\Backup\iTunesCOMSample\Program.cs">
+</Event><Event ErrorLevel="0" Project="iTunesCOMSample" Source="iTunesCOMSample\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Scott\Desktop\iTunesCOMSample2\Backup\iTunesCOMSample\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="iTunesCOMSample" Source="iTunesCOMSample\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Scott\Desktop\iTunesCOMSample2\Backup\iTunesCOMSample\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="iTunesCOMSample" Source="iTunesCOMSample\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Scott\Desktop\iTunesCOMSample2\Backup\iTunesCOMSample\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="iTunesCOMSample" Source="iTunesCOMSample\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Scott\Desktop\iTunesCOMSample2\Backup\iTunesCOMSample\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="iTunesCOMSample" Source="iTunesCOMSample\Form1.resx" Description="File successfully backed up as C:\Users\Scott\Desktop\iTunesCOMSample2\Backup\iTunesCOMSample\Form1.resx">
+</Event><Event ErrorLevel="0" Project="iTunesCOMSample" Source="iTunesCOMSample\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Scott\Desktop\iTunesCOMSample2\Backup\iTunesCOMSample\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="iTunesCOMSample" Source="iTunesCOMSample\iTunesCOMSample.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="iTunesCOMSample" Source="iTunesCOMSample\iTunesCOMSample.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="iTunesCOMSample.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="iTunesCOMSample.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="iTunesCOMSample" Source="iTunesCOMSample\iTunesCOMSample.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
